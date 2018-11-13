@@ -1,0 +1,19 @@
+---
+title: "_site.yml"
+author: "Julie"
+date: "2018 M11 13"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+name: "Julie.github.io"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
