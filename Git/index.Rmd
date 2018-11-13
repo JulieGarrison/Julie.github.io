@@ -1,0 +1,16 @@
+---
+title: "index"
+author: "Julie"
+date: "2018 M11 13"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
+title: "My Website"
+---
+    
+Hello, Website! Welcome to the world.
